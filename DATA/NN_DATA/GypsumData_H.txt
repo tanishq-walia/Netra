@@ -1,0 +1,1 @@
+S_NO,L_D_E,L_G_I,N_D_I,N_G_I,I_D_I,I_G_I,LIGHT,ph,moisture
